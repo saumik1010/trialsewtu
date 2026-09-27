@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/shramsetu-MVP/',
+    base: '/trialsewtu/',
 
     plugins: [
       react(),
